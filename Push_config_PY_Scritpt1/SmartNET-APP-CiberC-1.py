@@ -69,6 +69,6 @@ for devices in devices_list:
     saveoutput.write(output)
     saveoutput.write('\n')
     saveoutput.close
-    print 'configuracion guardada para ATP'
-#Creado por Raul Flores
+    print 'configuracion guardada para pruebas'
+#Creado por Raul Eduardo Flores Najera
 #Correo raul.flores@ciberc.com
