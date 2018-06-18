@@ -19,3 +19,26 @@ in the devices file, take as an example
 some commands and devices added
 to see the order in which they should be placed
 the same.
+
+
+Library requirements:
+Netmiko
+Paramiko
+Getpass
+datetime
+
+
+You can install Netmiko it from source:
+
+$ git clone https://github.com/ktbyers/netmiko.git
+$ cd netmiko
+$ python setup.py install
+
+You can also use pip:
+
+$ pip install netmiko
+$ pip install paramiko
+$ pip install DateTime
+
+
+$ pip install paramiko
