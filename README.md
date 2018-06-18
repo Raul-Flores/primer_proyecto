@@ -31,11 +31,15 @@ datetime
 You can install Netmiko it from source:
 
 git clone https://github.com/ktbyers/netmiko.git
+
 cd netmiko
+
 python setup.py install
 
 You can also use pip:
 
 pip install netmiko
+
 pip install paramiko
+
 pip install DateTime
