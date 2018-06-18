@@ -41,6 +41,3 @@ $ pip install netmiko
 $ pip install paramiko
 
 $ pip install DateTime
-
-
-$ pip install paramiko
