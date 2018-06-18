@@ -7,7 +7,7 @@ commands_file
 
 2. Add the IP addresses of the equipment
 that you want to add the commands by modifying
-the device_file file
+the device_file file.
 
 3. Run the script placing the following
 on a computer with python 2.7 installed
