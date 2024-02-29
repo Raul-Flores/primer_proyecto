@@ -11,7 +11,7 @@ the device_file file.
 
 3. Run the script placing the following
 on a computer with python 2.7 installed
-python SmarNet-APP-CiberC-1.py
+python script_example.py
 
 4. The script will execute each of the
 commands placed on each listed device
