@@ -1,4 +1,4 @@
-# CiberC Python Script example
+# Python Script example
 
 Demo Python Script to config devices
 
